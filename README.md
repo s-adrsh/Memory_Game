@@ -12,7 +12,7 @@ Link: https://memory-game-henna-eight.vercel.app/
 
 ## Installation
 
-1. Clone this repository: `git clone https://github.com/yourusername/memory-game.git`
+1. Clone this repository: `git clone https://github.com/s-adrsh/memory-game.git`
 2. Navigate to the project folder: `cd memory-game`
 3. Install dependencies: `npm install` (if you're using Node.js)
 4. Start the game: `npm start` (if you're using Node.js)
