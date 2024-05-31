@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a classic memory game built with React. The game tests players' memory skills by challenging them to match pairs of cards.
+This is a classic memory game built with React. The game tests player's memory skills by challenging them to match pairs of cards.
 
 ## How to Play
 
